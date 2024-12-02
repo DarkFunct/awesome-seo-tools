@@ -1,262 +1,239 @@
-![Awesome SEO tools cover](/awesome-seo-tools-cover.webp)
+![很棒的 SEO 工具封面] （/awesome-seo-tools-cover.webp ）
 
-# Awesome SEO tools
+#精彩的SEO工具
 
-A curated list of awesome SEO (Search Engine Optimization) tools to help improve your website's ranking and visibility on search engines.
+精选的优秀SEO（搜索引擎优化）工具列表，可帮助提高您的网站在搜索引擎上的排名和竞争力。
 
-> This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+>此repo由以下人员维护[ SerpApi ] （https://serpapi.com?utm_source=awesome-seo-tools ）团队：“通过我们快速、简单且完整的API抓取Google和其他搜索引擎的数据。”
 
-## Contributing
+##贡献
 
-If you know any other SEO tools that deserve to be on this list, feel free to open a pull request or drop an issue with your suggestions.
+如果您知道此列表中包含任何其他值得的 SEO 工具，请随时打开拉取请求或提出您的建议。
 
-**How to contribute:**
+**如何贡献：**
 
-- Work only on `README.md` file.
-- You can put the link at the bottom of the relevant category.
-- Make sure it does not exist in this list yet.
+-仅工作于`自述文件.md`文件。
 
-## Table of Contents
+-您可以将链接放在相关类别的底部。
 
-1. [All in one SEO tools](#all-in-one-seo-tools)
-1. [Keyword Research](#keyword-research)
-1. [Backlink Analysis](#backlink-analysis)
-1. [Content Optimization](#content-optimization)
-1. [Rank Tracking](#rank-tracking)
-1. [Technical SEO](#technical-seo)
-1. [Local SEO](#local-seo)
-1. [SEO Browser Extensions](#seo-browser-extensions)
-1. [Miscellaneous Tools](#miscellaneous-tools)
+-确保它尚不存在列表中。
 
-## All in one SEO tools
+##目录
 
-From keyword research to link analysis, these tools are the Swiss army knives of the SEO world.
+1. 【一体化SEO工具】（ #一体化SEO工具）
 
-- [Ahrefs](https://ahrefs.com/) - Everything you need to rank higher & get more traffic.
+1 . [关键词研究] （#关键词研究）
 
-- [SEMrush](https://www.semrush.com/lp/keyword-research-b/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.
+1. 【反向链接分析】（ #反向链接分析）
 
-- [Seodity](https://seodity.com/) - Seodity is a complete SEO toolkit to grow your business.
+1. 【内容优化】（ #内容优化）
 
-- [Ubersuggest](https://neilpatel.com/ubersuggest/) - Want more traffic? Ubersuggest shows you how to win the game of SEO.
+1 . [排名追踪] （#排名跟踪）
 
-- [Mangools](https://mangools.com/) - Juicy SEO tools you will love.
+1 。 [技术搜索引擎优化] （#技术搜索引擎优化）
 
-- [SERanking](https://seranking.com/) - All-in-one agency-tailored SEO platform.
+1 . [本地搜索引擎优化] （#本地搜索引擎优化）
 
-- [Moz Pro](https://moz.com/) - SEO software and data to help you increase traffic, rankings, and visibility in search results.
+1 。 [ SEO浏览器扩展] （#seo-浏览器扩展）
 
-- [Serpstat](https://serpstat.com/) - SEO management platform.
+1 . [杂项工具] （#杂项工具）
 
-- [SEO PowerSuite](https://www.link-assistant.com/) - Rankings, on-page, backlinks, and reports — all in one easy-to-use toolkit.
+##一体化SEO工具
 
-- [WebCEO](https://www.webceo.com/) - SEO & digital marketing tools. For agency-level analysis, reports & lead generation.
+从关键词研究到链接分析，这些工具是SEO领域的瑞士军刀。
 
-- [SpyFu](https://www.spyfu.com/) - SEO marketing suite, PPC analyzer, historic data, competitive analysis, backlink outreach, unlimited keyword & domain projects, custom reporting.
+- [ Ahrefs ] （https://ahrefs.com/ ） - 提高排名和获得更多流量所需的一切。
 
-- [Zutrix](https://zutrix.com/) - SEO Tools to boost your traffic.
+- [ SEMrush ] （https://www.semrush.com/lp/keyword-research-b/ ） - 只需通过一个平台即可进行 SEO、内容营销、竞争对手研究、PPC 和社交媒体营销。
 
-- [BrightEdge](https://www.brightedge.com/) - BrightEdge is an enterprise SEO platform for data-driven content optimization and competitive analysis, ideal for large businesses.
+- [塞奥迪蒂] （https://seodity.com/ ） - Seodity 是一款完整的 SEO 工具包，可帮助您开发业务。
 
-- [CognitiveSEO](https://cognitiveseo.com/) - This tool provides comprehensive backlink analysis and content auditing to enhance your SEO strategy.
+- [ Uber 建议] （https://neilpatel.com/ubersuggest/ ） - 想要更多流量？Ubersuggest 向您展示如何在 SEO 游戏中取胜。
 
-- [Keyword Insights](https://www.keywordinsights.ai/) - Make Better Content Faster. Much Faster. Transform Your Content and SEO Strategy with AI.
+- [芒果] （https://mangools.com/ ） - 您一定会喜欢的精彩SEO工具。
 
-- [Clicks.so](https://www.clicks.so/) - The Beginner-Friendly Affordable SEO Tool.
+- [排名系统] （https://seranking.com/ ） - 一体化机构定制SEO平台。
 
-- [SEO Utils](https://seoutils.app/) - An SEO desktop application built for macOS, Windows, Linux.
+- [ Moz 专业版] （https://moz.com/ ） - SEO 软件和数据可帮助您增加流量、排名和搜索结果的可视性。
 
-- [Spexia](https://getspexia.com) - All in one tool to create & optimize informational content (specialized on ECom shops).
+- [赛普斯塔特] （https://serpstat.com/ ） - SEO管理平台。
 
-## Keyword Research
+- [ SEO PowerSuite ] （https://www.link-assistant.com/ ） - 排名、页面、反向链接和报告 - 全部包含在一个易于使用的工具包中。
 
-Uncover high-potential keywords to target and captivate your audience.
+- [网络价值] （https://www.webceo.com/ ） - SEO 和数字营销工具。用于机构级分析、报告和潜在客户生成。
 
-- [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Free tool from Google Ads that provides keyword ideas and traffic estimates.
+- [间谍福] （https://www.spyfu.com/ ） - SEO营销套件、PPC分析器、历史数据、竞争分析、反向链接拓展、无限和域名域名项目、自定义报告。
 
-- [Keyword Tool](https://keywordtool.io/) - Find great keywords using Google Autocomplete.
+- [祖特里克斯] （https://zutrix.com/ ） - SEO 工具可提高您的流量。
 
-- [KeySearch LSI Keyword](https://www.keysearch.co/tools/lsi-keywords-generator) - Enter any keyword to generate semantically related LSI keywords to improve your SEO.
+- [亮边] （https://www.brightedge.com/ ） - BrightEdge是一个企业SEO平台，用于数据驱动的内容优化和竞争分析，非常适合大型企业。
 
-- [WordStream](https://www.wordstream.com/keywords) - One tool to discover and prioritize the best keywords to target.
+- [ SEO认知] （https://cognitiveseo.com/ ） - 此工具提供全面的反向链接分析和内容审核，以增强您的SEO策略。
 
-- [Ahrefs' Keywords Generator](https://ahrefs.com/keyword-generator) - Free keyword generator ideas by Ahref.
+- [关键词洞察] （https://www.keywordinsights.ai/ ） - 更快地制作更好的内容。快速分割。利用 AI 改变您的内容和 SEO 策略。
 
-- [Semrush's Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - Find millions of keyword suggestions for your SEO.
+- [点击.so ] （https://www.clicks.so/ ） - 适合初学者且价格实惠的SEO工具。
 
-- [Long Tail Pro](https://longtailpro.com/) - The best keyword research tool for long tail keywords.
-  
-- [Seoformulas](https://www.seoformulas.com) - Discover untapped keywords and build powerful SEO formulas to rank higher in the SERPs.
-  
-- [Serp Miner](https://serpminer.com/free-seo-tools) Free Keyword Research Tools: Find long-tail keywords using Google Autocomplete and check the exact search volume of keywords in bulk.
+- [ SEO 工具] （https://seoutils.app/ ） - 为 macOS、Windows、Linux 构建的 SEO 桌面应用程序。
 
-- [kwrds.ai](https://www.kwrds.ai) - Find great keywords & questions people are asking.
+- [斯佩克西亚] （https://getspexia.com ） - 用于创建和优化信息内容的一体化工具（专门用于电子商务商店）。
 
-- [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
-  
-## Backlink Analysis
+##关键词研究
 
-Delve deep into your link profile and discover opportunities for growth and risk mitigation.
+殡葬具有高潜力的关键词来定位和吸引您的受众。
 
-- [Majestic](https://majestic.com/) - Find out who links to your website.
+- [ Google 关键字规划师] （https://ads.google.com/home/tools/keyword-planner/ ） - Google Ads 提供免费工具，提供关键字创意和流量提示。
 
-- [Monitor Backlinks](https://monitorbacklinks.com/) - Check the good and bad backlinks for you and the competition.
+- [关键字工具] （https://keywordtool.io/ ） - 使用Google自动完成功能查找出色的关键词。
 
-- [Respona](https://respona.com/) - The all in one link building tool.
+- [ KeySearch LSI 关键字] （https://www.keysearch.co/tools/lsi-keywords-generator ） - 输入任何关键字即可生成语义相关的 LSI 关键字，以改善您的 SEO。
 
-- [BacklinkGPT](https://www.backlinkgpt.com/) - An AI-powered link-building platform that helps you find backlink prospects and generate personalized outreach messages for faster link building.
+- [词流] （https://www.wordstream.com/keywords ） - 一种用于发现并确定最佳目标关键词的优先顺序的工具。
 
-- Other "All in one SEO tools" offer this feature as well.
+- [ Ahrefs 关键词生成器] （https://ahrefs.com/keyword-generator ） - Ahref 提供免费的关键字生成器创意。
 
-## Content Optimization
+- [ Semrush 的关键字魔术工具] （https://www.semrush.com/analytics/keywordmagic/start ） - 为您的 SEO 找到数百万个关键字建议。
 
-Fine-tune your content to resonate with search algorithms and your audience alike.
+- [长尾专业版] （https://longtailpro.com/ ） - 最佳的长尾关键词研究工具。
 
-- [Clearscope](https://www.clearscope.io/) - Clearscope is the best-in-class SEO content optimization platform that drives search traffic.
+- [西奥公式] （https://www.seoformulas.com ） - 发现尚未开发的关键词并构建强大的 SEO 公式才能在 SERP 中获得更高的排名。
 
-- [SurferSEO](https://surferseo.com/) - Don't leave your SEO strategy up to chance. Surfer will give you a SEO workflow to boost your organic traffic, increase your visibility, and improve your rank.
+- [ Serp矿工] （https://serminer.com/free-seo-tools ）免费关键词研究工具：利用Google自动完成功能查找长尾关键词，并批量检查关键词的精确搜索量。
 
-- [NeuronWriter](https://neuronwriter.com/) - Optimize your website content so Google adores it.
+- [韩国] （https://www.kwrds.ai ） - 找到人们正在询问的精彩关键词和问题。
 
-- [ContentSwift](https://github.com/hilmanski/contentswift) - An open source content research/optimization tool for SEO.
+- [解答公众] （https://answerthepublic.com/ ） - AnswerThePublic通过易于理解的关键字研究工具将搜索问题并自动完成搜索创建可视化，帮助您进行内容创意。
 
-- [Market Muse](https://www.marketmuse.com/) - Our AI analyzes your entire website to give you personalized, objective insights so you can confidently plan better and faster.
+##反向链接分析
 
-- [Frase io](https://www.frase.io/) - Frase is the fastest and easiest way to create content that ranks on Google.
+深入研究您的链接配置文件并发现增长和降低风险的机会。
 
-- [GrowthBar](https://www.growthbarseo.com/) - Write and optimize SEO-friendly blog content. 10x faster with GrowthBar’s AI.
+- [雄伟] （https://majestic.com/ ） - 找出谁链接到您的网站。
 
-- [LSIGraph](https://lsigraph.com/) - Write SEO content with confidence and 10X Your site's traffic.
+- [监控反向链接] （https://monitorbacklinks.com/ ） - 检查您和竞争对手的良好和不良反向链接。
 
-- [Yoast SEO](https://yoast.com/) - WordPress plugin for SEO optimization of posts and pages.
+- [回复] （https://respona.com/ ） - 一体化链接构建工具。
 
-- [SearchSocket](https://searchsocket.com/) - A free AI-powered tool that provides real-time SEO suggestions to improve content alignment with Google's guidelines.
+- [反向链接GPT ] （https://www.backlinkgpt.com/ ） - 一个由人工智能驱动的链接构建平台，可帮助您找到反向链接前景并生成个性化的外部展示信息，以更快的速度地面构建链接。
 
-- [BlogBud AI](https://blogbud.ai) - Generate SEO-optimized articles and export directly to your CMS (WordPress, Webflow, Ghost, Shopify)
+-其他“一体化SEO工具”也提供此功能。
 
-- [GrackerAI](https://gracker.ai/) - AI Editorial and Programtic SEO solution for B2B Cybersecurity SaaS companies.
-  
-## Rank Tracking
+##内容优化
 
-Monitor your website's position in search results and gauge your SEO strategies' effectiveness.
+影响您的内容与搜索算法和受众产生共鸣。
 
-- [SerpBear](https://docs.serpbear.com/) - An open source search engine position tracking app.
+- [清晰范围] （https://www.clearscope.io/ ） - Clearscope 是一流的 SEO 内容优化平台，可推动搜索流量。
 
-- [SERPWatcher](https://serpwatch.io/) - The most advanced rank tracker for marketers and agencies.
+- [冲浪者搜索优化] （https://surferseo.com/ ） - 不要让你的SEO策略听天由命。冲浪者将为你提供SEO工作流程，以提升你的自然流量、增加你的曼谷引擎并提高你的排名。
 
-- [AccuRanker](https://www.accuranker.com/) - The world's fastest & most accurate rank tracker.
+- [神经元写入器] （https://neuronwriter.com/ ） - 优化您的网站内容，以便 Google 能够喜欢它。
 
-- [Nightwatch](https://nightwatch.io/) - Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
+- [ ContentSwift ] （https://github.com/hilmanski/contentswift ） - 用于SEO的开源内容研究/优化工具。
 
-- [DAXRM](https://www.daxrm.com/integrations/rank-tracker/) - Real-time SEO keyword rank tracking with multiple locations and devices
+- [市场缪斯] （https://www.marketmuse.com/ ） - 我们的人工智能会分析您的整个网站，为您提供个性化、诊断的意见，以便您可以自信地制定更好、更快的计划。
 
-- Other "All in one SEO tools" offer this feature as well.
+- [普拉斯] （https://www.frase.io/ ） - Frase 是在 Google 上排名的内容创建最快捷、最简单的方法。
 
-## Technical SEO
+- [成长吧] （https://www.growthbarseo.com/ ） - 编写和优化SEO友好的博客内容。使用GrowthBar的AI提高速度10倍。
 
-Ensure your website's foundation is solid for search engines and user experience.
+- [大规模集成电路图] （https://lsigraph.com/ ） - 自行编写SEO内容让您网站的流量增加10倍。
 
-- [Google Search Console](https://search.google.com/search-console/about) - Free tool from Google to monitor and maintain site's presence in Google Search results.
+- [ Yoast引擎搜索优化] （https://yoast.com/ ） - 用于帖子和页面SEO优化的WordPress插件。
 
-- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
+- [ Search SDK ] （https://searchsocket.com/ ） - 一款免费的人工智能工具，可提供实时 SEO 建议，以提高内容与 Google 指南的一致性。
 
-- [SiteAnalyzer](https://site-analyzer.pro/) - Scan your websites and get detailed information about each page.
+- [ BlogBu​​​​d人工智能] （https://blogbud.ai ） - 生成SEO优化文章并直接导出到您的CMS（WordPress、Webflow、Ghost、Shopify）
 
-- [Screpy](https://screpy.com/) - Stop worrying about missing important website metrics or checking multiple platforms!
+- [格雷克人工智能] （https://gracker.ai/ ） - 为B2B网络安全SaaS公司提供AI编辑和程序化SEO解决方案。
 
-- [Sitebulb](https://sitebulb.com/) - The website auditing tool for SEO consultants and agencies.
+##排名追踪器
 
-- [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyzes individual page optimization.
+监控您的网站在搜索结果中的位置并评估您的 SEO 策略的有效性。
 
-- [BROWSEO](https://www.browseo.net) - See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have.
+- [ SerpBear ] （https://docs.serpbear.com/ ） - 一个开源搜索引擎位置跟踪应用程序。
 
-- [linkok.com](https://linkok.com) - A modern broken link checker.
+- [搜索引擎结果监测] （https://serpwatch.io/ ） - 为营销人员和代理机构提供最先进的排名追踪器。
 
-- [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers.
+- [精准排名] （https://www.accuranker.com/ ） - 世界上最快、最准确的排名追踪器。
 
-- [Wizardstool](https://wizardstool.com/) - A tool to check broken links.
+- [守夜人] （https://nightwatch.io/ ） - Nightwatch 是一款基于云的 SEO 和分析工具，专注于排名跟踪和报告。
 
-- [SEOnaut](https://seonaut.org) - Open source technical SEO auditing tool.
+- [达克斯雷姆] （https://www.daxrm.com/integrations/rank-tracker/ ） - 通过��个位置和设备实时跟踪SEO关键词排名
 
-- [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
+-其他“一体化SEO工具”也提供此功能。
 
-## Local SEO
+##技术搜索引擎优化
 
-Boost your local presence and connect with audiences in your community.
+确保您的网站基础稳固，以利于搜索引擎和用户体验。
 
-- [BrightLocal](https://www.brightlocal.com/local-seo-tools/) -The complete platform to monitor, audit, and improve local SEO.
+- [怀特斯帕克] （https://whitespark.ca/ ） - 改善本地 SEO 所需的一切。
 
-- [Whitespark](https://whitespark.ca/) - Everything you need for better local SEO.
+- [本地猎鹰] （https://www.localfalcon.com/ ） - 最准确的本地排名追踪器。
 
-- [LocalFalcon](https://www.localfalcon.com/) - The most accurate local rank tracker.
+- [网格化我的业务] （https://gridmybusiness.com/ ） - 发现您当地地铁的最快方法。
 
-- [Grid My Business](https://gridmybusiness.com/) - The quickest way to discover your local visibility.
+- [ Moz 本地] （https://moz.com/products/local ） - 利用 Moz 强大的本地 SEO 和网络管理工具最大程度地提高您的在线播放。
 
-- [Moz Local](https://moz.com/products/local) - Maximize your online visibility with Moz's powerful local SEO and reputation management tool.
+## SEO分析
 
-## SEO Analytics
+- [ Google 搜索控制台] （https://search.google.com/search-console/about ） - Search Console 工具和报告可帮助您简化网站的搜索流量和效果、解决问题并让您的网站在 Google 中排名靠前搜索结果中
 
-- [Google Search Console](https://search.google.com/search-console/about) - Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
- 
-- [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
+- [ SEO 获得] （https://seogets.com/ ） - 专注于隐私的分析工具，旨在取代代理和联属公司的 Google Search Console。
 
-## SEO Browser Extensions
+## SEO浏览器扩展
 
-Equip your browser with tools for quick and efficient SEO insights on the go.
+为您的浏览器配备工具，方便随时随地快速有效地获得SEO洞察。
 
-- [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) - SEO Minion helps you in your daily SEO tasks such as On-Page SEO analysis, Broken Link Checking, SERP Preview and more.
+- [ SEO小黄人] （https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi ） - SEO Minion可以帮助您完成日常SEO任务，例如页面SEO分析、断开链接检查、SERP预约等。
 
-- [SEOquake](https://www.seoquake.com/index.html) - A powerful SEO toolbox for your browser.
+- [ SEO地震] （https://www.seoquake.com/index.html ） - 适用于您的浏览器的强大的SEO工具箱。
 
-- [Woorank](https://www.woorank.com/en/privacy) - Run your Review today to get an instant website analysis and learn what you need to do to improve.
+- [伍兰克] （https://www.woorank.com/en/privacy ） - 立即运行您的审核检查即时网站分析并了解您需要做些什么来改进。
 
-- [Keyword Surfer](https://surferseo.com/keyword-surfer-extension/) - Chrome Extension for content and keyword research.
+- [冲浪者] （https://surferseo.com/keyword-surfer-extension/ ） - 用于内容和关键字研究的 Chrome 扩展程序。
 
-- [MozBar](https://moz.com/products/pro/seo-toolbar) - Provides instant metrics for any page or SERP.
+- [莫兹巴] （https://moz.com/products/pro/seo-toolbar ） - 为任何页面或SERP提供即时指标。
 
-- [Ahrefs' SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) - On-page SEO report, broken link checker, redirect tracer, and country changer for search results in one extension.
+- [ Ahrefs 的 SEO 工具栏] （https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei ） - 一个扩展中包含页面 SEO 报告、中断链接检查器、监督跟踪器和国家/地区转换器等搜索结果。
 
-- [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en) - The HTTP header & redirect checker for SEO.
+- [重定向路径] （https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en ） - 用于 SEO 的 HTTP 标头和重定向检查器。
 
-- [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en) - Easily inspect the meta data found inside web pages, find issues and get advice to fix them.
+- [ META SEO检查员] （https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en ） - 轻松检查网页内的元数据，发现问题并获取修复建议。
 
-- [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Instant website analysis, including site rank, site traffic, sources and geography.
+- [类似网站] （https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en ） - 即时网站分析，包括网站排名、网站流量、来源和断层。
 
-- [MST SERP Counter](https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - SERP Counter gives accurate search results of a searched keyword. We can see the position, result, and rank.
+- [ MST SERP 计数] （https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn ） - SERP 计数器提供搜索关键词的精确搜索结果。我们可以看到更多、结果和排名。
 
-- [TextOptimizer](https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - It analyzes search results for relevant terms and extracts “intent tables” to suggest other words that you can use in your copy “to better match search engines’ expectations.”
+- [文本优化器] （https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd ） - 它分析相关术语的搜索结果并提取“意图表”来建议您可以在副本中使用的其他词汇“以更好地满足搜索引擎的期望”。
 
-- [SEO Search Simulator](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon?hl=en) - With this extension, you can emulate Google searches from any location and check if a particular URL ranks in the top 100 results.
+- [ SEO搜索模拟器] （https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon?hl=en ） - 通过此扩展程序，您可以从任何位置模拟Google 搜索，并检查特定 URL 是否在前 100 个结果中排名。
 
-- [BuzzSumo](https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en) - Browser Extension that packs a punch when it comes to content research, link analysis, and social media investigation.
+- [ BuzzSumo ] （https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en ） - 浏览器扩展在内容研究、链接分析和社交媒体调查方面具有强大的作用。
 
-- [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Browser Extension that offers detailed reports and actionable tips for enhancing your site's SEO performance such as Page load speeds, Accessibility, SEO and more.
+- [谷歌灯塔] （https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk ） - 浏览器扩展提供详细的报告和可操作的提示，以增强您网站的 SEO 性能，例如页面加载速度、可访问性、SEO 等。
 
-  
-## Validator / Checker
+##验证者/检查者
 
-- [Broken Link Checker](https://www.brokenlinkcheck.com/) - Detects and reports broken links on websites.
+- [链接失效检查器] （https://www.brokenlinkcheck.com/ ） - 检测并报告网站上的链接失效。
 
-- [Robots.txt Checker](https://support.google.com/webmasters/answer/6062598?hl=en) - Checks robots.txt files for errors.
+- [ Robots.txt检查器] （https://support.google.com/webmasters/answer/6062598?hl=en ） - 检查robots.txt文件是否有错误。
 
-- [Lighthouse Rich Result Checker](https://search.google.com/test/rich-results) - Tests whether your website is eligible for rich results in Google Search.
+- [ Lighthouse 富文本搜索结果检查器] （https://search.google.com/test/rich-results ） - 测试您的网站是否有资格在 Google 搜索中获得丰富的结果。
 
-- [XML Sitemap Checker](https://www.xml-sitemaps.com/validate-xml-sitemap.html) - Validates XML sitemaps for errors.
+- [ XML站点地图检查器] （https://www.xml-sitemaps.com/validate-xml-sitemap.html ） - 验证XML站点地图是否存在错误。
 
+##杂项工具
 
-## Miscellaneous Tools
+探索适用于这些小众任务和独特的 SEO 挑战的各种工具。
 
-Explore a diverse range of tools for those niche tasks and unique SEO challenges.
+- [ GT Matrix ] （https://gtmetrix.com/ ） - 分析网站速度并提供性能意见。
 
-- [GTmetrix](https://gtmetrix.com/) - Analyzes site speed and provides performance insights.
+- [平多姆] （https://tools.pingdom.com/ ） - 测试网站加载时间并提供性能分析。
 
-- [Pingdom](https://tools.pingdom.com/) - Tests website load time and gives performance analysis.
+- [调试熊] （https://www.debugbear.com/test/website-speed ） - 运行页面速度分析并报告Google CrUX数据
 
-- [DebugBear](https://www.debugbear.com/test/website-speed) - Runs a page speed analysis and reports Google CrUX data
+祝您优化愉快！🚀
 
+##信息
 
-Happy optimizing! 🚀
-
-## Information
-
-This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+此仓库由以下人员维护[ SerpApi ] （https://serpapi.com?utm_source=awesome-seo-tools ）团队：“通过我们快速、简单且完整的 API 抓取 Google 和其他搜索引擎的数据。”
