@@ -148,7 +148,7 @@
 
 - [Nightwatch](https://nightwatch.io/)- Nightwatch 是一款基于云的 SEO 和分析工具，专注于排名跟踪和报告。
 
-- [DAXRM](https://www.daxrm.com/integrations/rank-tracker/)- 通过��个位置和设备实时跟踪SEO关键词排名
+- [DAXRM](https://www.daxrm.com/integrations/rank-tracker/)- 实时 SEO 关键字排名跟踪，支持多地点和设备
 
 - 其他“一体化SEO工具”也提供此功能。
 
